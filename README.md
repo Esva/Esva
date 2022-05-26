@@ -14,6 +14,5 @@ I'm Chris, people call me CJ but I'm also known as Esva from my days of too much
 
 📫 How to reach me:
 - email: esvagaming@gmail.com
-- twitter: @EsvasTweets
-- Instagram: EsvasInsta
-- [1]: https://twitter.com/EsvasTweets "EsvasTweets"
+- twitter: @EsvasTweets - https://twitter.com/EsvasTweets
+- Instagram: EsvasInsta - https://www.instagram.com/esvainsta
