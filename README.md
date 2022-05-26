@@ -1,4 +1,4 @@
-[### Well, Hello There 👋👋](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![]([image.png](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 I'm Chris, people call me CJ but I'm also known as Esva from my days of too much gaming and Live Stream content creation on Mixer and now on Twitch. I'm self taught in After Effects, Photoshop, 3D modelling and basic game design using Unreal Engine, but what I really want is to breakout into the Tech world and make a career. So instead of moving from hobby to hobby decided in 2022 to actually do something and take the challenge. So right now I'm a bootcamp student with the School of Code.
 
