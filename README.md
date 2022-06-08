@@ -4,11 +4,13 @@ I'm Chris, people call me CJ but I'm also known as Esva from my days of too much
 
 
 - 🔭 School of Code cohort 12 student.
-- Hackathon week 1 - Created a Rock, Paper, Scissors, Lizard, Spock game in basic JS with a little easter egg here and there.
-- Hackathon week 2 - Created a dad joke api frontend during our API Hackathon
-- Hackathon week 3 - A week of UI/UX with the goal of creating a mock landing page taking all the UX/UI principles in mind and building frameworks.
-- Hackathon week 4 - Building a backend server in node.js with express.js
-- Hackathon week 5 - --[In Progress]--
+- Week 1 - Created a Rock, Paper, Scissors, Lizard, Spock game in basic JS with a little easter egg here and there.
+- Week 2 - Created a dad joke api frontend during our API Hackathon
+- Week 3 - A week of UI/UX with the goal of creating a mock landing page taking all the UX/UI principles in mind and building frameworks.
+- Week 4 - Building a backend server in node.js with express.js
+- Week 5 - A week where RESTful API is king and a hackathon that had us making a REST API along with deployed DB on Heroku
+- Week 6 - No Hackathon that week due to the holidays but for the three days we covered TDD (Test Driven Development) using JEST and Cypress
+- Week 7 - {In Progress} - Diving into REACT
 
 
 
