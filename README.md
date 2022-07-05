@@ -11,7 +11,10 @@ I'm Chris, people call me CJ but I'm also known as Esva from my days of too much
 - Week 5 - A week where RESTful API is king and a hackathon that had us making a REST API along with deployed DB on Heroku
 - Week 6 - No Hackathon that week due to the holidays but for the three days we covered TDD (Test Driven Development) using JEST and Cypress
 - Week 7 - Diving into REACT
-- Week 8 - {In Progress}
+- Week 8 - Deeper dive into React 
+- Week 9 - Real world project 
+- Week 10 - Retrospective of Week 9 and Intro into Auth
+- Week 11 - Cloud deployment and Engineering {In Progress}  
 
 
 
