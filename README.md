@@ -7,7 +7,8 @@ Currently:
 Netcom Bootcamp Student - Studying AI for the Workplace - Intel Accreditation
 
 
-- 🔭 Previous School of Code cohort 12 student.
+-----------------------------------------------------------------------------
+🔭 Previous School of Code cohort 12 student.
 - Week 1 - Created a Rock, Paper, Scissors, Lizard, Spock game in basic JS with a little easter egg here and there.
 - Week 2 - Created a dad joke api frontend during our API Hackathon
 - Week 3 - A week of UI/UX with the goal of creating a mock landing page taking all the UX/UI principles in mind and building frameworks.
