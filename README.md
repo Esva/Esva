@@ -22,7 +22,7 @@ Web & AI Projects:
   </li>
   <li>
     Backend servers and cloud deployment on Heroku
-  </li>li
+  </li>
 </ul>
 
 
