@@ -7,9 +7,9 @@ I’m self-taught in After Effects, Photoshop, 3D modeling, and basic game desig
 
 Current Learning & Development:
 
-`-Netcom Bootcamp: Studying AI for the Workplace (Intel Accredited)
-`-IBT Learning: Web development and practical AI applications
-`-School of Code: Full-stack development with Node.js, React, REST APIs, TDD, and cloud deployment
+` - Netcom Bootcamp: Studying AI for the Workplace (Intel Accredited)
+` - IBT Learning: Web development and practical AI applications
+` - School of Code: Full-stack development with Node.js, React, REST APIs, TDD, and cloud deployment
 
 Key Projects & Highlights:
 
