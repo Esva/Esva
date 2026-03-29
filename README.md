@@ -1,29 +1,29 @@
 ![alt text](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-I'm Chris, people call me CJ but I'm also known as Esva from my days of too much gaming and Live Stream content creation on Mixer and now on Twitch. I'm self taught in After Effects, Photoshop, 3D modelling and basic game design using Unreal Engine, but what I really want is to breakout into the Tech world and make a career. So instead of moving from hobby to hobby decided in 2022 to actually do something and take the challenge. So right now I'm a bootcamp student with the School of Code.
+Hi, I'm Chris but please, call me CJ! 👋
+Creative technologist, self-taught designer, and aspiring AI & software developer. From gaming and live streaming on Mixer and Twitch to building interactive web apps and exploring AI, I love turning curiosity into real-world skills.
 
+I’m self-taught in After Effects, Photoshop, 3D modeling, and basic game design in Unreal Engine, and now I’m focused on expanding my career in tech.
 
-Currently:
-Netcom Bootcamp Student - Studying AI for the Workplace - Intel Accreditation
+Current Learning & Development:
 
+Netcom Bootcamp: Studying AI for the Workplace (Intel Accredited)
+IBT Learning: Web development and practical AI applications
+School of Code: Full-stack development with Node.js, React, REST APIs, TDD, and cloud deployment
 
------------------------------------------------------------------------------
-🔭 Previous School of Code cohort 12 student.
-- Week 1 - Created a Rock, Paper, Scissors, Lizard, Spock game in basic JS with a little easter egg here and there.
-- Week 2 - Created a dad joke api frontend during our API Hackathon
-- Week 3 - A week of UI/UX with the goal of creating a mock landing page taking all the UX/UI principles in mind and building frameworks.
-- Week 4 - Building a backend server in node.js with express.js
-- Week 5 - A week where RESTful API is king and a hackathon that had us making a REST API along with deployed DB on Heroku
-- Week 6 - No Hackathon that week due to the holidays but for the three days we covered TDD (Test Driven Development) using JEST and Cypress
-- Week 7 - Diving into REACT
-- Week 8 - Deeper dive into React 
-- Week 9 - Real world project 
-- Week 10 - Retrospective of Week 9 and Intro into Auth
-- Week 11 - Cloud deployment and Engineering {In Progress}  
+Key Projects & Highlights:
 
+Web & AI Projects:
+Interactive AI applications exploring real-world problems
+Web apps built with React, Node.js, and REST APIs
+Backend servers and cloud deployment on Heroku
+Creative Projects:
+3D modeling, game design, and animation projects using Unreal Engine, After Effects, and Photoshop
+Hackathon & UI/UX Work:
+UX/UI landing page projects and API hackathons combining design and development
 
+Portfolio & Work:
+Check out my projects and portfolio here: esva.github.io/Site
 
-📫 How to reach me:
-- email: esvagaming@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/chris-chapman-b4747a3b0/
+Fun Fact: I love combining creativity with tech—whether it’s designing a game character or coding a full-stack app, I’m always experimenting, learning, and building.
 
