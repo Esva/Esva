@@ -28,9 +28,20 @@ Web & AI Projects:
 
 
 Creative Projects:
-3D modeling, game design, and animation projects using Unreal Engine, After Effects, and Photoshop
-Hackathon & UI/UX Work:
-UX/UI landing page projects and API hackathons combining design and development
+<ul>
+  <li>
+    3D modelling
+  </li>
+  <li>
+    Game Design
+  </li>
+  <li>
+    Animation projects using Unreal Engine
+  </li>
+  <li>
+    Companion Cove - AI chat Bot
+  </li>
+</ul>
 
 Portfolio & Work:
 Check out my projects and portfolio here: esva.github.io/Site
