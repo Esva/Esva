@@ -13,9 +13,20 @@ Current Learning & Development:
 Key Projects & Highlights:
 
 Web & AI Projects:
-Interactive AI applications exploring real-world problems
-Web apps built with React, Node.js, and REST APIs
-Backend servers and cloud deployment on Heroku
+<ul>
+  <li>
+    Interactive AI applications exploring real-world problems
+  </li>
+  <li>
+    Web apps built with React, Node.js, and REST APIs
+  </li>
+  <li>
+    Backend servers and cloud deployment on Heroku
+  </li>li
+</ul>
+
+
+
 Creative Projects:
 3D modeling, game design, and animation projects using Unreal Engine, After Effects, and Photoshop
 Hackathon & UI/UX Work:
